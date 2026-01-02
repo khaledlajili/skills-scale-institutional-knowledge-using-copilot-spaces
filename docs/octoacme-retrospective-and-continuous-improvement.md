@@ -17,7 +17,7 @@ After each sprint, release, or important milestone. Also after incidents.
 - Facilitated by Scrum Master or Project Manager
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
-- Ensure all roles have opportunity to contribute (Developers, QA/Testing, UX Designer, DevOps Engineer, Product Manager)
+- Ensure all roles have opportunity to contribute from their perspective
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines

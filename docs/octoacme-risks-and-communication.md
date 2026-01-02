@@ -41,4 +41,4 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> Scrum Master/PM -> Product Lead -> Sponsor
 - Stakeholder concerns -> Stakeholder Group Lead -> Project Manager -> Product Lead
-- For security incidents, follow the security incident runbook and notify Security on-call (DevOps Engineer coordinates)
+- For security incidents, follow the security incident runbook and notify Security on-call (DevOps Engineer or designated on-call coordinator)
