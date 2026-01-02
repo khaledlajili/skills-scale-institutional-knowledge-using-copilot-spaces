@@ -14,14 +14,15 @@ Maintain a simple table with:
 - Status
 
 ## Risk Lifecycle
-- Identify: during planning and ongoing execution
-- Assess: estimate impact and likelihood
-- Mitigate: reduced via actions, contingency plans
-- Monitor: review at weekly syncs and update status
+- Identify: during planning and ongoing execution (all team members contribute)
+- Assess: estimate impact and likelihood (Project Manager, Product Manager, technical leads)
+- Mitigate: reduced via actions, contingency plans (assigned to specific role owners)
+- Monitor: review at weekly syncs and update status (Project Manager, Scrum Master)
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
-- Provide regular updates (weekly or milestone-based)
+- Leverage Stakeholder Group Leads to consolidate feedback and streamline communication
+- Provide regular updates (weekly or milestone-based) via Project Manager or Stakeholder Group Lead
 - Use a single source of truth (project README or release doc) for status
 
 ## Communication Templates
@@ -38,5 +39,6 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- Team-level -> Scrum Master/PM -> Product Lead -> Sponsor
+- Stakeholder concerns -> Stakeholder Group Lead -> Project Manager -> Product Lead
+- For security incidents, follow the security incident runbook and notify Security on-call (DevOps Engineer coordinates)
